@@ -68,3 +68,32 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-01-01 14:51:02.359 Workshop[34668:1156142] Transaction success
 2015-01-01 14:51:02.360 Workshop[34668:1156142] Service initialized
 2015-01-01 14:51:19.294 Workshop[34668:1156203] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-01-01 15:00:24.163 Workshop[35031:1159500] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/rrgayhart/Library/Developer/CoreSimulator/Devices/6050B849-3BFF-4BB4-8103-D2B292B98F72/data/Containers/Data/Application/A71739C0-10A7-438E-A4C9-69CCA90DCF25/Library/Cookies/Cookies.binarycookies
+2015-01-01 15:00:24.656 Workshop[35031:1159500] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-01 15:00:24.657 Workshop[35031:1159500] Multi-tasking -> Device: YES, App: YES
+2015-01-01 15:00:24.688 Workshop[35031:1159500] Unlimited access to network resources
+2015-01-01 15:00:24.716 Workshop[35031:1159500] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-01 15:00:25.899 Workshop[35031:1159500] Resetting plugins due to page load.
+2015-01-01 15:00:26.346 Workshop[35031:1159500] Finished load of: file:///Users/rrgayhart/Library/Developer/CoreSimulator/Devices/6050B849-3BFF-4BB4-8103-D2B292B98F72/data/Containers/Bundle/Application/0D3548A9-4EA0-4C56-9183-E85291B3B9AB/Workshop.app/www/index.html
+2015-01-01 15:00:26.512 Workshop[35031:1159500] THREAD WARNING: ['Device'] took '19.432129' ms. Plugin should use a background thread.
+2015-01-01 15:00:26.520 Workshop[35031:1159500] INSERT success
+2015-01-01 15:00:26.520 Workshop[35031:1159500] INSERT success
+2015-01-01 15:00:26.523 Workshop[35031:1159500] INSERT success
+2015-01-01 15:00:26.524 Workshop[35031:1159500] INSERT success
+2015-01-01 15:00:26.526 Workshop[35031:1159500] INSERT success
+2015-01-01 15:00:26.529 Workshop[35031:1159500] INSERT success
+2015-01-01 15:00:26.531 Workshop[35031:1159500] INSERT success
+2015-01-01 15:00:26.533 Workshop[35031:1159500] INSERT success
+2015-01-01 15:00:26.539 Workshop[35031:1159500] INSERT success
+2015-01-01 15:00:26.541 Workshop[35031:1159500] INSERT success
+2015-01-01 15:00:26.543 Workshop[35031:1159500] INSERT success
+2015-01-01 15:00:26.545 Workshop[35031:1159500] INSERT success
+2015-01-01 15:00:26.547 Workshop[35031:1159500] Transaction success
+2015-01-01 15:00:26.549 Workshop[35031:1159500] Service initialized

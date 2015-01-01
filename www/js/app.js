@@ -13,6 +13,7 @@
         alert("Employee Directory v3.4");
     });
     document.addEventListener('deviceready', function () {
+      FastClick.attach(document.body);
       if (navigator.notification) { // Override default HTML alert with native dialog
         window.alert = function (message) {
           navigator.notification.alert(
