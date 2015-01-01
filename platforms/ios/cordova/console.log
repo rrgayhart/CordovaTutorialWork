@@ -97,3 +97,31 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-01-01 15:00:26.545 Workshop[35031:1159500] INSERT success
 2015-01-01 15:00:26.547 Workshop[35031:1159500] Transaction success
 2015-01-01 15:00:26.549 Workshop[35031:1159500] Service initialized
+2015-01-01 16:45:52.965 Workshop[35338:1168059] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/rrgayhart/Library/Developer/CoreSimulator/Devices/6050B849-3BFF-4BB4-8103-D2B292B98F72/data/Containers/Data/Application/627A39A1-DF10-4341-B55C-689A6D1615AB/Library/Cookies/Cookies.binarycookies
+2015-01-01 16:45:53.122 Workshop[35338:1168059] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-01 16:45:53.122 Workshop[35338:1168059] Multi-tasking -> Device: YES, App: YES
+2015-01-01 16:45:53.124 Workshop[35338:1168059] Unlimited access to network resources
+2015-01-01 16:45:53.126 Workshop[35338:1168059] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-01 16:45:53.625 Workshop[35338:1168059] Resetting plugins due to page load.
+2015-01-01 16:45:53.734 Workshop[35338:1168059] Finished load of: file:///Users/rrgayhart/Library/Developer/CoreSimulator/Devices/6050B849-3BFF-4BB4-8103-D2B292B98F72/data/Containers/Bundle/Application/0F178CC1-B8A6-43C9-A1E8-3FC88B2DAB8F/Workshop.app/www/index.html
+2015-01-01 16:45:53.768 Workshop[35338:1168059] Create table success
+2015-01-01 16:45:53.768 Workshop[35338:1168059] INSERT success
+2015-01-01 16:45:53.770 Workshop[35338:1168059] INSERT success
+2015-01-01 16:45:53.771 Workshop[35338:1168059] INSERT success
+2015-01-01 16:45:53.773 Workshop[35338:1168059] INSERT success
+2015-01-01 16:45:53.774 Workshop[35338:1168059] INSERT success
+2015-01-01 16:45:53.776 Workshop[35338:1168059] INSERT success
+2015-01-01 16:45:53.778 Workshop[35338:1168059] INSERT success
+2015-01-01 16:45:53.782 Workshop[35338:1168059] INSERT success
+2015-01-01 16:45:53.784 Workshop[35338:1168059] INSERT success
+2015-01-01 16:45:53.786 Workshop[35338:1168059] INSERT success
+2015-01-01 16:45:53.788 Workshop[35338:1168059] INSERT success
+2015-01-01 16:45:53.790 Workshop[35338:1168059] INSERT success
+2015-01-01 16:45:53.792 Workshop[35338:1168059] Transaction success
